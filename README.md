@@ -3,7 +3,7 @@ ReST复现工作
 <br />
 <div align="center">
   <a href="https://github.com/JohnJiang12138/ReST">
-    <img height="150" src="ReST.jpg?sanitize=true" />
+    <img height="300" src="ReST.jpg?sanitize=true" />
   </a>
 </div>
 
